@@ -21,7 +21,7 @@ cd your_repository
 Before running the application, you need to install the necessary dependencies.
 
 ```bash
-pip install streamlit chromadb openai dotenv
+pip install streamlit chromadb openai dotenv tiktoken
 ```
 
 ## Environment variables
